@@ -36,6 +36,10 @@ section a {
   border-bottom: 0.2em solid #ffae19;
 }
 
+section a {
+  border-bottom: 0.2em solid #ffae19;
+}
+
 section a:hover {
   background-color: lightgrey;
 }
@@ -45,7 +49,12 @@ section a:hover {
 }
 
 .project-links a {
+  padding: 0.2em;
   margin-right: 1em;
+}
+
+.project-links {
+  margin-bottom: 3em;
 }
 
 .social-links {

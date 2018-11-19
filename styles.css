@@ -36,6 +36,14 @@ section a {
   border-bottom: 0.2em solid #ffae19;
 }
 
+section a:hover {
+  background-color: lightgrey;
+}
+
+.social-links a:hover {
+  color: #ffae19;
+}
+
 .project-links a {
   margin-right: 1em;
 }
